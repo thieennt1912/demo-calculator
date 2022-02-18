@@ -22,7 +22,7 @@
     border: none;
     outline: none;
     border-radius: 10px;
-    font-size: 1rem;
+    font-size: 1.25rem;
     font-weight: 500;
     background-color: transparent;
     color: var(----txt-color);
@@ -49,7 +49,7 @@
 }
 
 .calculator__result__exp {
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 1;
     transform-origin: right bottom;
     transition: transform 0.3s ease;
@@ -73,4 +73,9 @@
       width: 100vw;
       height: 100vh;
     }
+    
+    
+.calculator__btns {
+    gap: 15px;
+}
   }
