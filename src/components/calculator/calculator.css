@@ -22,7 +22,7 @@
     border: none;
     outline: none;
     border-radius: 10px;
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     font-weight: 500;
     background-color: transparent;
     color: var(----txt-color);
@@ -74,8 +74,7 @@
       height: 100vh;
     }
     
-    
-.calculator__btns {
-    gap: 15px;
-}
+    .calculator__btns {
+        gap: 15px;
+    }
   }
